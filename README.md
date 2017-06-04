@@ -6,7 +6,7 @@ leetcode algorithms
             <th>ID</th>
             <th>Topic</th>
             <th>Difficulty</th>
-            <th>Ways<th>
+            <th>Ways</th>
         </tr>
     </thead>
     <tbody>
