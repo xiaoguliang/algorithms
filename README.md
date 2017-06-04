@@ -13,7 +13,7 @@ leetcode algorithms
        <tr>
            <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/#/description">349</a></td>
            <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/#/description">Intersection of Two Arrays</a></td>
-           <td>Easy<td>
+           <td>Easy</td>
            <td>JS</td>
        </tr>
     </tbody>
